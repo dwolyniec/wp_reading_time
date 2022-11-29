@@ -1,0 +1,1 @@
+Simple wordpress plugin for displaying post reading time

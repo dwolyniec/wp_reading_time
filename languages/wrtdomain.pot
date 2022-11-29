@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Reading Time\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-29 14:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wrtdomain"
+
+#: reading-time.php:87
+msgid "Beginning"
+msgstr ""
+
+#. Author of the plugin
+msgid "Damian W"
+msgstr ""
+
+#: reading-time.php:88
+msgid "End"
+msgstr ""
+
+#: reading-time.php:48
+msgid "Headline text"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/dwolyniec"
+msgstr ""
+
+#: reading-time.php:37
+msgid "minute"
+msgstr ""
+
+#: reading-time.php:37
+msgid "minutes"
+msgstr ""
+
+#. Description of the plugin
+msgid "plugin for calculating and displaying post reading time"
+msgstr ""
+
+#: reading-time.php:51
+msgid "Position display"
+msgstr ""
+
+#. Name of the plugin
+msgid "Post Reading Time"
+msgstr ""
+
+#: reading-time.php:37 reading-time.php:58
+msgid "Reading Time"
+msgstr ""
+
+#: reading-time.php:74
+msgid "Reading Time Settings"
+msgstr ""

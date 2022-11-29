@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Reading Time\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-29 13:54+0000\n"
+"PO-Revision-Date: 2022-11-29 15:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polski\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wrtdomain"
+
+#: reading-time.php:87
+msgid "Beginning"
+msgstr "Początek"
+
+#. Author of the plugin
+msgid "Damian W"
+msgstr ""
+
+#: reading-time.php:88
+msgid "End"
+msgstr "Koniec"
+
+#: reading-time.php:48
+msgid "Headline text"
+msgstr "Nagłówek"
+
+#. Author URI of the plugin
+msgid "https://github.com/dwolyniec"
+msgstr ""
+
+#: reading-time.php:37
+msgid "minute"
+msgstr "minuta"
+
+#: reading-time.php:37
+msgid "minutes"
+msgstr "minut"
+
+#. Description of the plugin
+msgid "plugin for calculating and displaying post reading time"
+msgstr "wtyczka do obliczania i wyświetlania czasu czytania postów"
+
+#: reading-time.php:51
+msgid "Position display"
+msgstr "Miejsce wyświetlania"
+
+#. Name of the plugin
+msgid "Post Reading Time"
+msgstr "Czas czytania"
+
+#: reading-time.php:37 reading-time.php:58
+msgid "Reading Time"
+msgstr "Czas czytania"
+
+#: reading-time.php:74
+msgid "Reading Time Settings"
+msgstr "Ustawienia Wtyczki Czas Czytania"
